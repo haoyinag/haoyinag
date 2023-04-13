@@ -11,7 +11,7 @@
 -->
 **前端程序员一枚 😄**
 - 公众号：iMiniCode
-- 博客：[前端Chen](https://juejin.cn/user/2313028195067405?utm_source=gold_browser_extension) 
+- 博客：[前端Chen](https://juejin.cn/user/2313028195067405/posts) 
 - 网站：[Icodemini](http://icodemini.com/) 
  
  <div>
