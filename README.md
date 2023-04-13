@@ -9,7 +9,10 @@
 - 😄 I’m currently coding in Javascript 
 - ⚡ Fun fact: ...
 -->
-**😄 U can read and then get something about me by: [Icodemini](http://icodemini.com/) `Loading slowly`.**
+**😄 野生前端程序员:**
+- 公众号：iMiniCode.
+- 博客：[前端Chen]([http://icodemini.com/](https://juejin.cn/user/2313028195067405?utm_source=gold_browser_extension)) .
+- 网站：[Icodemini](http://icodemini.com/) .
  
  <div>
 <img align="right" height="280" src="https://camo.githubusercontent.com/d5d230c9430fb5a59816746dca3536072a4699cfe16941b44a0eff9cc273c6be/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d32383032303030336434613439336337386438323032626136633335663137395f622e77656270">
