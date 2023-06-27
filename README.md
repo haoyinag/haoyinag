@@ -9,7 +9,7 @@
 - 😄 I’m currently coding in Javascript 
 - ⚡ Fun fact: ...
 -->
-**前端程序员一枚 😄**
+**前端程序员**
 - 公众号：iMiniCode
 - 掘金：[前端Chen](https://juejin.cn/user/2313028195067405/posts) 
 - 网站：[Icodemini](http://icodemini.com/) 
